@@ -45,7 +45,7 @@ const projects = [
     title: "Authentication Module",
     description:
       "Developed an Authentication Module using Node.js, Express.js, and React for secure user login, registration, and session management..",
-    image: "/projects/Authentication.png",
+    image: "/projects/Authenticationfile.jpg",
     tags: ["Node.js", "Express.js", "React"],
     demoUrl: "https://github.com/J0shethan/auth-project",
     githubUrl: "https://github.com/J0shethan/auth-project",
